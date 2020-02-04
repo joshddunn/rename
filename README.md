@@ -8,4 +8,5 @@ A simple script that sleeps until you take a screen shot or screen recording. Th
 
 1. `git clone https://github.com/joshddunn/rename.git`
 2. `cd rename`
-3. `./rename`
+3. `./rename start` will begin a daemon process
+3. `./rename stop` will kill the daemon process
