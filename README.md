@@ -2,7 +2,9 @@
 
 A simple script that sleeps until you take a screen shot or screen recording. Then that screenshot gets renamed to something easier to deal with.
 
-<img src="https://user-images.githubusercontent.com/7513070/73715557-515faf80-46e2-11ea-9a2d-7e1535ece6a4.png" />
+Will convert 
+`Screen Shot 2020-02-04 at 12.50.10 AM.png` -> `screen_shot_1580777410.png`
+`Screen Recording 2020-02-04 at 12.50.10 AM.mov` -> `screen_recording_1580777410.mov`
 
 ## install and usage
 
