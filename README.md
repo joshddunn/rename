@@ -12,5 +12,6 @@ Will convert
 
 1. `git clone https://github.com/joshddunn/rename.git`
 2. `cd rename`
-3. `./rename start` will begin a daemon process
-3. `./rename stop` will kill the daemon process
+3. `rbenv use` if youre using rbenv
+4. `./rename start` will begin a daemon process
+5. `./rename stop` will kill the daemon process
